@@ -1,0 +1,12 @@
+[package]
+name = "koin"
+version = "0.1.0"
+authors = ["Ryan Sanden <ryan@ryansanden.com>"]
+edition = "2018"
+license = "Apache-2.0"
+keywords = []
+description = "koin.cx tools"
+readme = "readme.md"
+homepage = "http://koin.cx/"
+
+[dependencies]
